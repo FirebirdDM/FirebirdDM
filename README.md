@@ -10,7 +10,7 @@
 
 # About ME 🌟 :
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/FirebirdDM/FirebirdDM/blob/main/assets/101010.gif">
+<img hight="450" width="550" alt="GIF" align="right" src="https://github.com/FirebirdDM/FirebirdDM/blob/main/assets/101010.gif">
 
 ### - Learning 📘 :
 ⁍ Data Structures & Algorithms
@@ -23,6 +23,10 @@
 - ⚽ Soccer
 </br>
 </br>
+</br>
+
+# Skills & Tools 🛠️ :
+### - Languages 🌐 :
 </br>
 
 <!--
