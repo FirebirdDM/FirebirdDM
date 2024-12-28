@@ -28,6 +28,26 @@
 # Tech Stack 💻 :
 </br>
 
+
+
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=FirebirdDM&color=blue)
+
+
+## Let's Connect 🌐
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](your-linkedin-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge)](your-portfolio-link)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:your-email)
+
+
+
+
+
+
+
+
+
 <!--
 **FirebirdDM/FirebirdDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
