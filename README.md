@@ -8,6 +8,14 @@
 </br>
 </br>
 
+# About ME 🌟 :
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/FirebirdDM/FirebirdDM/blob/main/assets/101010.gif">
+
+
+</br>
+</br>
+</br>
 
 <!--
 **FirebirdDM/FirebirdDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
