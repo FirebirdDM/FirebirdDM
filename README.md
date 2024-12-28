@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hey there 👋
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/FirebirdDM/FirebirdDM/blob/main/assets/137958.gif">
+</div>
+
+</br>
+</br>
+</br>
+
 
 <!--
 **FirebirdDM/FirebirdDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
