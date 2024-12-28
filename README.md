@@ -12,7 +12,15 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/FirebirdDM/FirebirdDM/blob/main/assets/101010.gif">
 
+### - Learning 📘 :
+⁍ Data Structures & Algorithms
 
+### - Hobbies 🎉 : 
+- ✈️ Traveling
+- 📚 Reading Light Novels
+- 🎥 Watching Anime
+- 🎮 Playing Video Games
+- ⚽ Soccer
 </br>
 </br>
 </br>
