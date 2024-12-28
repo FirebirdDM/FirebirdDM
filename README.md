@@ -8,7 +8,7 @@
 </br>
 </br>
 
-# About ME 🌟 :
+# About ME 🌸 :
 
 <img hight="450" width="550" alt="GIF" align="right" src="https://github.com/FirebirdDM/FirebirdDM/blob/main/assets/101010.gif">
 
@@ -25,8 +25,7 @@
 </br>
 </br>
 
-# Skills & Tools 🛠️ :
-### - Languages 🌐 :
+# Tech Stack 💻 :
 </br>
 
 <!--
