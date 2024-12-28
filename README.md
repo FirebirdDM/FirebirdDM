@@ -40,26 +40,30 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/LuaU-009EFE?style=for-the-badge&logo=robloxstudio&logoColor=white)
+</br>
+</br>
 
+# Socials 🌐 :
+</br>
 
-
-
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=FirebirdDM&color=blue)
-
-
-## Let's Connect 🌐
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge)](/)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](/)
+</br>
+</br>
 
+# Support ❤️ :
+</br>
 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](/) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/firebirdgg) 
 
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=FirebirdDM&label=Profile%20views&color=0e75b6&style=for-the-badge)
+</div>
 
-
-
+<hr>
 
 
 
@@ -77,3 +81,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
