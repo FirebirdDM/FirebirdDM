@@ -47,6 +47,7 @@
 </br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](/)
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge)](/)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](/)
 </br>
